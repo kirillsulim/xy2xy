@@ -103,7 +103,11 @@ This file may be good for experienced developers who:
   <tr>
     <!-- Technology --><td>Gradient boosting library</td>
     <!-- Yandex internal --><td><a href="https://catboost.ai/">CatBoost</a></td>
-    <!-- Open source analog --><td><a href="https://catboost.ai/">CatBoost</a></td>
+    <!-- Open source analog --><td>
+      <a href="https://catboost.ai/">CatBoost</a><br/>
+      <a href="https://github.com/dmlc/xgboost">XGBoost</a><br/>
+      <a href="https://github.com/microsoft/LightGBM">LightGBM</a>
+    </td>
     <!-- Commercial analog --><td></td>
   </tr>
 </table>
