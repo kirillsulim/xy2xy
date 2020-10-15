@@ -77,6 +77,26 @@ This file may be good for experienced developers who:
 </table>
 
 
+## Testing
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Stress testing</td>
+    <!-- Yandex internal --><td><a href="https://github.com/yandex/yandex-tank">Yandex Tank</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/yandex-tank">Yandex Tank</a> (Open source by Yandex)<br/>
+      <a href="https://jmeter.apache.org/">JMeter</a> (Open source by Apache)<br/>
+      <a href="https://gatling.io/">Gatling</a> (Open source)
+    </td>
+  </tr>
+</table>
+
+
 ## DevOps
 
 <table>
