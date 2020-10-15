@@ -125,7 +125,7 @@ This file may be good for experienced developers who:
     <!-- Technology --><td>Wiki engine</td>
     <!-- Yandex internal --><td><a href="https://connect.yandex.ru/?noredirect=">Wiki</a></td>
     <!-- Analogs --><td>
-      <a href="https://connect.yandex.ru/?noredirect=">Wiki</a> (Commecial by Yandex)
+      <a href="https://connect.yandex.ru/?noredirect=">Wiki</a> (Commecial by Yandex)<br/>
       <a href="https://www.mediawiki.org/">Mediawiki</a> (Open source)<br/>
       <a href="https://www.atlassian.com/software/confluence">Confluence</a> (Commecial by Atlassian)
     </td>
