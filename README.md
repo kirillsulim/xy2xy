@@ -146,6 +146,20 @@ This file may be good for experienced developers who:
       <a href="https://www.docker.com/">Docker</a> (Open source)
     </td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Iaas/PaaS</td>
+    <!-- Yandex internal --><td>
+      <a href="https://habr.com/ru/company/yandex/blog/209324/">Cocaine</a> (Outdated)<br/>
+      <a href="https://cloud.yandex.ru/">Yandex.Cloud</a>
+    </td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/cocaine/cocaine-core">Cocaine</a> (Open source by Yandex)<br/>
+      <a href="https://www.openshift.com/">OpenShift</a> (Open source by RedHat)<br/>
+      <a href="https://cloud.yandex.ru/">Yandex.Cloud</a> (Commercial by Yandex)<br/>
+      <a href="https://aws.amazon.com/">AWS</a> (Commercial by Amazon)<br/>
+      <a href="https://azure.microsoft.com/">Azure</a> (Commercial by Microsoft)
+    </td>
+  </tr>
 </table>
 
 
