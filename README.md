@@ -74,6 +74,13 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/239823/">Logbroker</a></td>
     <!-- Aanalogs --><td><a href="https://kafka.apache.org/">Kafka</a> (Open source)</td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Distributed key-value storage</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/200080/">Elliptics</a></td>
+    <!-- Aanalogs --><td>
+      <a href="https://github.com/reverbrain/elliptics">Elliptics</a> (Open source)</br>
+    </td>
+  </tr>
 </table>
 
 
