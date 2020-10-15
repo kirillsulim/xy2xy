@@ -149,7 +149,7 @@ This file may be good for experienced developers who:
   <tr>
     <!-- Technology --><td>Iaas/PaaS</td>
     <!-- Yandex internal --><td>
-      <a href="https://habr.com/ru/company/yandex/blog/209324/">Cocaine</a> (Outdated)<br/>
+      <a href="https://habr.com/ru/company/yandex/blog/209324/">Cocaine</a><br/>
       <a href="https://cloud.yandex.ru/">Yandex.Cloud</a>
     </td>
     <!-- Analogs --><td>
