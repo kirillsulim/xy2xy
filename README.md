@@ -77,6 +77,24 @@ This file may be good for experienced developers who:
 </table>
 
 
+## DevOps
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td><a href="https://en.wikipedia.org/wiki/Service_mesh">Service mesh</a></td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/520134/">AppHost</a></td>
+    <!-- Analogs --><td>
+      <td><a href="https://github.com/hashicorp/consul">Consul</a> (OPen source by HashiCorp)
+    </td>
+  </tr>
+</table>
+
+
 ## Machine learning
 
 <table>
