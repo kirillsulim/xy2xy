@@ -83,7 +83,7 @@ This file may be good for experienced developers who:
   <tr>
     <th>Technology</th>
     <th>Yandex internal</th>
-    <Th>Analogs</th>
+    <th>Analogs</th>
   </tr>
   <tr>
     <!-- Technology --><td>Simple tasks outsoursing</td>
