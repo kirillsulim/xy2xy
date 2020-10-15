@@ -89,7 +89,23 @@ This file may be good for experienced developers who:
     <!-- Technology --><td><a href="https://en.wikipedia.org/wiki/Service_mesh">Service mesh</a></td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/520134/">AppHost</a></td>
     <!-- Analogs --><td>
-      <td><a href="https://github.com/hashicorp/consul">Consul</a> (OPen source by HashiCorp)
+      <a href="https://github.com/hashicorp/consul">Consul</a> (Open source by HashiCorp)
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td><a href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration</a></td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/428972/">CI</a></td>
+    <!-- Analogs --><td>
+      <a href="https://www.jenkins.io/">Jenkins</a> (Open source)<br/>
+      <a href="https://www.jetbrains.com/teamcity/">TeamCity</a> (Commercial by JetBrains)<br/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Container virtualization</td>
+    <!-- Yandex internal --><td><a href="https://github.com/yandex/porto">Porto</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/porto">Porto</a> (Open source by Yandex)<br/>
+      <a href="https://www.docker.com/">Docker</a> (Open source)
     </td>
   </tr>
 </table>
