@@ -77,6 +77,24 @@ This file may be good for experienced developers who:
 </table>
 
 
+## Frontend
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>BEM</td>
+    <!-- Yandex internal --><td><a href="https://github.com/bem/">BEM</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/bem/">BEM</a> (Open source)
+    </td>
+  </tr>
+</table>
+
+
 ## Testing
 
 <table>
@@ -192,6 +210,7 @@ This file may be good for experienced developers who:
 Feel free to add any technologies.
 If you add internal Yandex technology, you must provide link that prooves this technology is not under NDA.
 Usually this is link to [official Yandex blog on habr.com](https://habr.com/ru/company/yandex/) or link to [official Yandex GitHub repository](https://github.com/yandex).
+
 
 ## Why HTML in .md?
 
