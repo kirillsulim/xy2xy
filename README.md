@@ -83,14 +83,14 @@ This file may be good for experienced developers who:
   <tr>
     <th>Technology</th>
     <th>Yandex internal</th>
-    <th>Analogs</th>
+    <Th>Analogs</th>
   </tr>
   <tr>
     <!-- Technology --><td>Simple tasks outsoursing</td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/305956/">Toloka</a>
     <!-- Analogs --><td>
       <a href="https://toloka.yandex.ru/">Toloka</a> (Commercial by Yandex)<br/>
-      <a href="https://www.mturk.com/">Amazon Mechanical turk</a> (Commecial by Amazon)
+      <a href="https://www.mturk.com/">Amazon Mechanical turk</a> (Commercial by Amazon)
     </td>
   </tr>
   <tr>
@@ -117,17 +117,17 @@ This file may be good for experienced developers who:
     <!-- Technology --><td>Issue tracker</td>
     <!-- Yandex internal --><td><a href="https://yandex.ru/tracker/">Tracker</a></td>
     <!-- Analogs --><td>
-      <a href="https://yandex.ru/tracker/">Tracker</a> (Commecial by Yandex)<br/>
-      <a href="https://www.atlassian.com/software/jira">Jira</a> (Commecial by Atlassian)
+      <a href="https://yandex.ru/tracker/">Tracker</a> (Commercial by Yandex)<br/>
+      <a href="https://www.atlassian.com/software/jira">Jira</a> (Commercial by Atlassian)
     </td>
   </tr>
   <tr>
     <!-- Technology --><td>Wiki engine</td>
     <!-- Yandex internal --><td><a href="https://connect.yandex.ru/?noredirect=">Wiki</a></td>
     <!-- Analogs --><td>
-      <a href="https://connect.yandex.ru/?noredirect=">Wiki</a> (Commecial by Yandex)<br/>
+      <a href="https://connect.yandex.ru/?noredirect=">Wiki</a> (Commercial by Yandex)<br/>
       <a href="https://www.mediawiki.org/">Mediawiki</a> (Open source)<br/>
-      <a href="https://www.atlassian.com/software/confluence">Confluence</a> (Commecial by Atlassian)
+      <a href="https://www.atlassian.com/software/confluence">Confluence</a> (Commercial by Atlassian)
     </td>
   </tr>
 </table>
