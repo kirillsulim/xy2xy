@@ -70,7 +70,7 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/86271/">MyStem</a></td>
     <!-- Analogs --><td>
       <a href="https://yandex.ru/dev/mystem/">MyStem</a> (Free by Yandex)<br/>
-      <a href="Natasha">MyStem</a> (Open source)
+      <a href="https://github.com/natasha/natasha">Natasha</a> (Open source)
     </td>
   </tr>
   <tr>
