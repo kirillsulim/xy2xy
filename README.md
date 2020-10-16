@@ -103,6 +103,13 @@ This file may be good for experienced developers who:
     </td>
   </tr>
   <tr>
+    <!-- Technology --><td>Map-reduce cascading</td>
+    <!-- Yandex internal --><td>
+      <a href="https://habr.com/ru/company/yandex/blog/332688/">Nile</a>
+    </td>
+    <!-- Analogs --><td><a href="https://airflow.apache.org/">Airflow</a> (Open source)</td>
+  </tr>
+  <tr>
     <!-- Technology --><td>Querry language over map-reduce</td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/312430/">YQL</a></td>
     <!-- Analogs --><td><a href="https://hive.apache.org/">Hive</a> (Open source)</td>
