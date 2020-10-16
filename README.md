@@ -203,7 +203,7 @@ This file may be good for experienced developers who:
   </tr>
   <tr>
     <!-- Technology --><td>Stress testing manager</td>
-    <!-- Yandex internal --><td><a href="hhttps://habr.com/ru/company/yandex/blog/202446/">Lunapark</a></td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/202446/">Lunapark</a></td>
     <!-- Analogs --><td></td>
   </tr>
   <tr>
