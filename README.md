@@ -75,7 +75,7 @@ This file may be good for experienced developers who:
   </tr>
   <tr>
     <!-- Technology --><td>Structured data extractor</td>
-    <!-- Yandex internal --><td><a href="https://yandex.ru/dev/tomita/">Tomita parser</a></td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/219311/">Tomita parser</a></td>
     <!-- Analogs --><td>
       <a href="https://github.com/yandex/tomita-parser/">Tomita parser</a> (Open source by Yandex)
     </td>
@@ -212,6 +212,13 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/204192/">ObjectBuilders</a></td>
     <!-- Analogs --><td>
       <a href="https://github.com/yandex-qatools/builders">ObjectBuilders</a> (Open source by Yandex)
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Microservice-oriented test framework</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/491038/">TestSuite</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/yandex-taxi-testsuite">TestSuite</a> (Open source by Yandex)
     </td>
   </tr>
 </table>
