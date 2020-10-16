@@ -81,6 +81,13 @@ This file may be good for experienced developers who:
       <a href="https://github.com/reverbrain/elliptics">Elliptics</a> (Open source)</br>
     </td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Multithreaded PostgreSQL connection pool</td>
+    <!-- Yandex internal --><td><a href="https://yandex.ru/dev/odyssey/">Odyssey</a></td>
+    <!-- Aanalogs --><td>
+      <a href="https://github.com/yandex/odyssey">Odyssey</a> (Open source by Yandex)</br>
+    </td>
+  </tr>
 </table>
 
 
