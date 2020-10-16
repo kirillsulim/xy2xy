@@ -137,6 +137,13 @@ This file may be good for experienced developers who:
       <a href="https://gatling.io/">Gatling</a> (Open source)
     </td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Testing report framework</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/232697/">Allure</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/allure-framework/">Allure</a> (Open source)
+    </td>
+  </tr>
 </table>
 
 
@@ -195,6 +202,11 @@ This file may be good for experienced developers who:
     <th>Technology</th>
     <th>Yandex internal</th>
     <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Machine learning framework</td>
+    <!-- Yandex internal --><td><a href="https://yandex.ru/company/technologies/matrixnet/">MatrixNet</a>
+    <!-- Analogs --><td></td>
   </tr>
   <tr>
     <!-- Technology --><td>Simple tasks outsoursing</td>
