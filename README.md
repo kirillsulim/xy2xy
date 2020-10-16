@@ -276,6 +276,15 @@ This file may be good for experienced developers who:
       <a href="https://azure.microsoft.com/">Azure</a> (Commercial by Microsoft)
     </td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Nginx configuration tool</td>
+    <!-- Yandex internal --><td>
+      <a href="https://habr.com/ru/company/yandex/blog/327590/">Gixy</a>
+    </td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/gixy/">Gixy</a> (Open source by Yandex)
+    </td>
+  </tr>
 </table>
 
 
