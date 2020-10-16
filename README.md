@@ -41,6 +41,22 @@ This file may be good for experienced developers who:
 </table>
 
 
+## Search
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Content-Based Image Retrieval</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/192404/">Siberia</a></td>
+    <!-- Analogs --><td></td>
+  </tr>
+</table>
+
+
 ## Natural language processing
 
 <table>
@@ -77,8 +93,14 @@ This file may be good for experienced developers who:
   </tr>
   <tr>
     <!-- Technology --><td>Map-reduce</td>
-    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/311104/">YT</a></td>
-    <!-- Analogs --><td><a href="https://hadoop.apache.org/">Hadoop</a> (Open source)</td>
+    <!-- Yandex internal --><td>
+      <a href="https://habr.com/ru/company/yandex/blog/189362/">Real Time MapReduce</a><br/>
+      <a href="https://habr.com/ru/company/yandex/blog/311104/">YT</a>
+    </td>
+    <!-- Analogs --><td>
+      <a href="https://hadoop.apache.org/">Hadoop</a> (Open source)<br/>
+      <a href="https://spark.apache.org/">Spark</a> (Open source)
+    </td>
   </tr>
   <tr>
     <!-- Technology --><td>Querry language over map-reduce</td>
@@ -136,11 +158,13 @@ This file may be good for experienced developers who:
     <!-- Technology --><td>Frontend testing frameworks</td>
     <!-- Yandex internal --><td>
       <a href="https://yandex.ru/dev/gemini/">Gemini</a><br/>
-      <a href="https://yandex.ru/dev/hermione/">Hermione</a>
+      <a href="https://yandex.ru/dev/hermione/">Hermione</a><br/>
+      <a href="https://yandex.ru/dev/html-elements/">HTML Elements</a>
     </td>
     <!-- Analogs --><td>
       <a href="https://github.com/gemini-testing/gemini/">Gemini</a> (Open source by Yandex)<br/>
-      <a href="https://github.com/gemini-testing/hermione">Hermione</a> (Open source by Yandex)
+      <a href="https://github.com/gemini-testing/hermione">Hermione</a> (Open source by Yandex)<br/>
+      <a href="https://github.com/yandex-qatools/htmlelements">Html Elements</a> (Open source by Yandex)
     </td>
   </tr>
 </table>
@@ -155,8 +179,8 @@ This file may be good for experienced developers who:
     <th>Analogs</th>
   </tr>
   <tr>
-    <!-- Technology --><td>Stress testing</td>
-    <!-- Yandex internal --><td><a href="https://github.com/yandex/yandex-tank">Yandex Tank</a></td>
+    <!-- Technology --><td>Stress testing tool</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/202020/">Yandex Tank</a></td>
     <!-- Analogs --><td>
       <a href="https://github.com/yandex/yandex-tank">Yandex Tank</a> (Open source by Yandex)<br/>
       <a href="https://jmeter.apache.org/">JMeter</a> (Open source by Apache)<br/>
@@ -164,10 +188,30 @@ This file may be good for experienced developers who:
     </td>
   </tr>
   <tr>
+    <!-- Technology --><td>Stress testing manager</td>
+    <!-- Yandex internal --><td><a href="hhttps://habr.com/ru/company/yandex/blog/202446/">Lunapark</a></td>
+    <!-- Analogs --><td></td>
+  </tr>
+  <tr>
     <!-- Technology --><td>Testing report framework</td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/232697/">Allure</a></td>
     <!-- Analogs --><td>
       <a href="https://github.com/allure-framework/">Allure</a> (Open source)
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Java Matchers library</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/184634/">Matchers Java</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex-qatools/matchers-java">Matchers Java</a> (Open source by Yandex)<br/>
+      <a href="https://github.com/hamcrest/JavaHamcrest">Hamcrest matchers</a> (Open source by Hamcrest)
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Test data generator</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/204192/">ObjectBuilders</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex-qatools/builders">ObjectBuilders</a> (Open source by Yandex)
     </td>
   </tr>
 </table>
@@ -231,7 +275,9 @@ This file may be good for experienced developers who:
   </tr>
   <tr>
     <!-- Technology --><td>Machine learning framework</td>
-    <!-- Yandex internal --><td><a href="https://yandex.ru/company/technologies/matrixnet/">MatrixNet</a>
+    <!-- Yandex internal --><td>
+      <a href="https://habr.com/ru/company/yandex/blog/174213/">FML</a><br/>
+      <a href="https://yandex.ru/company/technologies/matrixnet/">MatrixNet</a>
     <!-- Analogs --><td></td>
   </tr>
   <tr>
