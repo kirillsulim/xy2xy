@@ -41,6 +41,32 @@ This file may be good for experienced developers who:
 </table>
 
 
+## Natural language processing
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Morphological analyzer</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/86271/">MyStem</a></td>
+    <!-- Analogs --><td>
+      <a href="https://yandex.ru/dev/mystem/">MyStem</a> (Free by Yandex)<br/>
+      <a href="Natasha">MyStem</a> (Open source)
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Structured data extractor</td>
+    <!-- Yandex internal --><td><a href="https://yandex.ru/dev/tomita/">Tomita parser</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/tomita-parser/">Tomita parser</a> (Open source by Yandex)
+    </td>
+  </tr>
+</table>
+
+
 ## Data bases and data processing
 
 <table>
