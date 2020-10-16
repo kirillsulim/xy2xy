@@ -136,6 +136,13 @@ This file may be good for experienced developers who:
       <a href="https://github.com/yandex/odyssey">Odyssey</a> (Open source by Yandex)</br>
     </td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Distributed DataBase</td>
+    <!-- Yandex internal --><td><a href="https://cloud.yandex.ru/services/ydb">Yandex Database (YDB)</a></td>
+    <!-- Aanalogs --><td>
+      <a href="https://cloud.yandex.ru/services/ydb">Yandex Database (YDB)</a> (Commercial by Yandex)
+    </td>
+  </tr>
 </table>
 
 
