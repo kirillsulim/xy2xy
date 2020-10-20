@@ -292,6 +292,15 @@ This file may be good for experienced developers who:
       <a href="https://github.com/yandex/gixy/">Gixy</a> (Open source by Yandex)
     </td>
   </tr>
+  <tr>
+    <!-- Technology --><td>Load balancer</td>
+    <!-- Yandex internal --><td>
+      <a href="https://github.com/yandex/balancer">Balancer</a> (Archived)
+    </td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/balancer">Balancer</a>(Open source by Yandex)
+    </td>
+  </tr>
 </table>
 
 
