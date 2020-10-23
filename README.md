@@ -122,7 +122,10 @@ This file may be good for experienced developers who:
   <tr>
     <!-- Technology --><td>Workflow manager</td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/351016/">Nirvana</a></td>
-    <!-- Analogs --><td><a href="https://airflow.apache.org/">Airflow</a> (Open source)</td>
+    <!-- Analogs --><td>
+      <a href="https://airflow.apache.org/">Airflow</a> (Open source by Apache)<br/>
+      <a href="https://nifi.apache.org/index.html">NiFi</a> (Open source by Apache)
+    </td>
   </tr>
   <tr>
     <!-- Technology --><td>Message broker</td>
