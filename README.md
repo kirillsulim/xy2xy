@@ -296,12 +296,12 @@ This file may be good for experienced developers who:
     </td>
   </tr>
   <tr>
-    <!-- Technology --><td>Load balancer</td>
+    <!-- Technology --><td>L7 load balancer</td>
     <!-- Yandex internal --><td>
       <a href="https://github.com/yandex/balancer">Balancer</a> (Archived)
     </td>
     <!-- Analogs --><td>
-      <a href="https://github.com/yandex/balancer">Balancer</a>(Open source by Yandex)
+      <a href="https://github.com/envoyproxy/envoy">Envoy</a>
     </td>
   </tr>
 </table>
