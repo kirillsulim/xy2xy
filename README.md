@@ -117,7 +117,10 @@ This file may be good for experienced developers who:
   <tr>
     <!-- Technology --><td>Column oriented database</td>
     <!-- Yandex internal --><td><a href="https://clickhouse.tech/">ClickHouse</a></td>
-    <!-- Analogs --><td><a href="https://clickhouse.tech/">ClickHouse</a> (Open source by Yandex)</td>
+    <!-- Analogs --><td>
+      <a href="https://clickhouse.tech/">ClickHouse</a> (Open source by Yandex)<br/>
+      <a href="https://www.vertica.com/">Vertica</a> (Commercial by Vertica)
+    </td>
   </tr>
   <tr>
     <!-- Technology --><td>Workflow manager</td>
