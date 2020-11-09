@@ -323,7 +323,9 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td>
       <a href="https://habr.com/ru/company/yandex/blog/174213/">FML</a><br/>
       <a href="https://yandex.ru/company/technologies/matrixnet/">MatrixNet</a>
-    <!-- Analogs --><td></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/google/caliban">Caliban</a> (Open source by Google)
+    </td>
   </tr>
   <tr>
     <!-- Technology --><td>Simple tasks outsoursing</td>
