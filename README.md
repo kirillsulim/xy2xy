@@ -260,6 +260,13 @@ This file may be good for experienced developers who:
     </td>
   </tr>
   <tr>
+    <!-- Technology --><td>Microservices firewall</td>
+    <!-- Yandex internal --><td><a href="https://www.youtube.com/watch?v=0Zvi6_94r5E">TVM</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/hashicorp/consul">Consul</a> (Open source by HashiCorp)
+    </td>
+  </tr>
+  <tr>
     <!-- Technology --><td><a href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration</a></td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/428972/">CI</a></td>
     <!-- Analogs --><td>
