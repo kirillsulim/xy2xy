@@ -141,7 +141,7 @@ This file may be good for experienced developers who:
     <!-- Aanalogs --><td>
       <a href="https://github.com/reverbrain/elliptics">Elliptics</a> (Open source)</br>
       <a href="https://redis.io/">Redis</a> (Open source)</br>
-      <a href="https://redis.io/">Consul</a> (KV part, open source by HashiCorp)</br>
+      <a href="https://www.consul.io/">Consul</a> (KV part, open source by HashiCorp)</br>
     </td>
   </tr>
   <tr>
