@@ -140,6 +140,8 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/200080/">Elliptics</a></td>
     <!-- Aanalogs --><td>
       <a href="https://github.com/reverbrain/elliptics">Elliptics</a> (Open source)</br>
+      <a href="https://redis.io/">Redis</a> (Open source)</br>
+      <a href="https://redis.io/">Consul</a> (KV part, open source by HashiCorp)</br>
     </td>
   </tr>
   <tr>
