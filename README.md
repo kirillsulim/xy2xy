@@ -132,6 +132,11 @@ This file may be good for experienced developers who:
     </td>
   </tr>
   <tr>
+    <!-- Technology --><td>Data deploy system</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/541892/">Market Access</a></td>
+    <!-- Analogs --><td></td>
+  </tr>
+  <tr>
     <!-- Technology --><td>Message broker</td>
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/239823/">Logbroker</a></td>
     <!-- Aanalogs --><td><a href="https://kafka.apache.org/">Kafka</a> (Open source)</td>
