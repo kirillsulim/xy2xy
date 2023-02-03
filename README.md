@@ -129,6 +129,7 @@ This file may be good for experienced developers who:
       <a href="https://airflow.apache.org/">Airflow</a> (Open source by Apache)<br/>
       <a href="https://nifi.apache.org/index.html">NiFi</a> (Open source by Apache)<br/>
       <a href="https://plynx.com">PLynx</a> (Open source)</br>
+      <a href="https://github.com/n8n-io/n8n">n8n</a> (Open source) for some cases
     </td>
   </tr>
   <tr>
