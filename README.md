@@ -128,8 +128,14 @@ This file may be good for experienced developers who:
     <!-- Analogs --><td>
       <a href="https://airflow.apache.org/">Airflow</a> (Open source by Apache)<br/>
       <a href="https://nifi.apache.org/index.html">NiFi</a> (Open source by Apache)<br/>
+      <a href="https://plynx.com">PLynx</a> (Open source)</br>
       <a href="https://github.com/n8n-io/n8n">n8n</a> (Open source) for some cases
     </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Data deploy system</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/541892/">Market Access</a></td>
+    <!-- Analogs --><td></td>
   </tr>
   <tr>
     <!-- Technology --><td>Message broker</td>
@@ -141,6 +147,8 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/200080/">Elliptics</a></td>
     <!-- Aanalogs --><td>
       <a href="https://github.com/reverbrain/elliptics">Elliptics</a> (Open source)</br>
+      <a href="https://redis.io/">Redis</a> (Open source)</br>
+      <a href="https://www.consul.io/">Consul</a> (KV part, open source by HashiCorp)</br>
     </td>
   </tr>
   <tr>
