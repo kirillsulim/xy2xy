@@ -127,7 +127,8 @@ This file may be good for experienced developers who:
     <!-- Yandex internal --><td><a href="https://habr.com/ru/company/yandex/blog/351016/">Nirvana</a></td>
     <!-- Analogs --><td>
       <a href="https://airflow.apache.org/">Airflow</a> (Open source by Apache)<br/>
-      <a href="https://nifi.apache.org/index.html">NiFi</a> (Open source by Apache)
+      <a href="https://nifi.apache.org/index.html">NiFi</a> (Open source by Apache)<br/>
+      <a href="https://github.com/n8n-io/n8n">n8n</a> (Open source) for some cases
     </td>
   </tr>
   <tr>
