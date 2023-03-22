@@ -98,6 +98,7 @@ This file may be good for experienced developers who:
       <a href="https://habr.com/ru/company/yandex/blog/311104/">YT</a>
     </td>
     <!-- Analogs --><td>
+      <a href="https://ytsaurus.tech">YTsaurus</a> (Open source by Yandex)<br/>
       <a href="https://hadoop.apache.org/">Hadoop</a> (Open source)<br/>
       <a href="https://spark.apache.org/">Spark</a> (Open source)
     </td>
