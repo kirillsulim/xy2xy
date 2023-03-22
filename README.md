@@ -163,7 +163,7 @@ This file may be good for experienced developers who:
     <!-- Technology --><td>Distributed DataBase</td>
     <!-- Yandex internal --><td><a href="https://cloud.yandex.ru/services/ydb">Yandex Database (YDB)</a></td>
     <!-- Aanalogs --><td>
-      <a href="https://cloud.yandex.ru/services/ydb">Yandex Database (YDB)</a> (Commercial by Yandex)
+      <a href="https://ydb.tech/">Yandex Database (YDB)</a> (Open source by Yandex)
     </td>
   </tr>
 </table>
