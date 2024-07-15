@@ -199,6 +199,23 @@ This file may be good for experienced developers who:
   </tr>
 </table>
 
+## Backend 
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>C++ backend framework</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/companies/yandex/articles/674902/">userver</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/userver-framework">userver</a> (Open source by Yandex)
+    </td>
+  </tr>
+</table>
+
 
 ## Testing
 
@@ -322,6 +339,23 @@ This file may be good for experienced developers who:
     </td>
     <!-- Analogs --><td>
       <a href="https://github.com/envoyproxy/envoy">Envoy</a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Cluster resource planning</td>
+    <!-- Yandex internal --><td>
+      <a href="https://habr.com/ru/companies/yandex/articles/564510/">Yandex Planner</a>
+    </td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/kubernetes">Kubernetes</a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Distributed rate limiter</td>
+    <!-- Yandex internal --><td>
+      <a href="">YARL</a>
+    </td>
+    <!-- Analogs --><td>
     </td>
   </tr>
 </table>
