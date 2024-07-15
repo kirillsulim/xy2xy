@@ -353,7 +353,7 @@ This file may be good for experienced developers who:
   <tr>
     <!-- Technology --><td>Distributed rate limiter</td>
     <!-- Yandex internal --><td>
-      <a href="">YARL</a>
+      <a href="https://habr.com/ru/companies/yandex/articles/579778/">YARL</a>
     </td>
     <!-- Analogs --><td>
     </td>
