@@ -360,6 +360,23 @@ This file may be good for experienced developers who:
   </tr>
 </table>
 
+## Documentation
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Yandex internal</th>
+    <th>Analogs</th>
+  </tr>
+  <tr>
+    <!-- Technology --><td>Documentation framework</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/companies/yandex/articles/765768/">Diplodoc</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/diplodoc-platform/">Diplodoc</a> (Open source by Yandex)
+    </td>
+  </tr>
+</table>
+
 
 ## Machine learning
 
@@ -393,6 +410,13 @@ This file may be good for experienced developers who:
       <a href="https://catboost.ai/">CatBoost</a> (Open source by Yandex)<br/>
       <a href="https://github.com/dmlc/xgboost">XGBoost</a> (Open source)<br/>
       <a href="https://github.com/microsoft/LightGBM">LightGBM</a> (Open source by Microsoft)
+    </td>
+  </tr>
+ <tr>
+    <!-- Technology --><td>Sharded Data Parallelism framework</td>
+    <!-- Yandex internal --><td><a href="https://habr.com/ru/companies/yandex/articles/817509/">YaFSDP</a></td>
+    <!-- Analogs --><td>
+      <a href="https://github.com/yandex/YaFSDP">YaFSDP</a> (Open source by Yandex)
     </td>
   </tr>
 </table>
